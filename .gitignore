@@ -1,0 +1,57 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Git
+.git
+
+# Altium cache
+__Previews/
+History/
+Project Logs for *
+Project Outputs for *
+Project Logs/
+Project Outputs/
+
+# Output files
+*.REP
+*.LOG
+*.RUL
+*.bak
+*.old
+*.tmp
+*.zip
+
+# Generated manufacturing files
+*.DRR
+*.APR_LIB
+*.EXTREP
+
+# CAM Output
+CAMtastic/
+
+# Output folders
+Outputs/
+Output/
+Fabrication/
+Assembly/
+
+# Compiler cache
+*.PcbDocPreview
+*.SchDocPreview
+
+# Auto save
+*.AutoSave
+*.~*
+
+# Altium cache
+*.ddb.cache
+
+# VSCode
+.vscode/
+
+# KiCad cache
+fp-info-cache
+
+# Python
+__pycache__/
