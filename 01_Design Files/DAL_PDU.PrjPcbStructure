@@ -8,8 +8,9 @@ Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=I2C.SchDoc|S
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=LED.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=MAX232.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=MCU.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=Mounting Holes.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=Mounting Holes.SchDoc|SheetNumber=16
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=PowerMonitor.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=RS485.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=TemperatureSensor.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=TEST POITN.SchDoc|SheetNumber=15
 Record=NoMainPathDocument|SourceDocument=Buck 5-12V.SchDoc|FileName=WatchDog.SchDoc|SheetNumber=11
