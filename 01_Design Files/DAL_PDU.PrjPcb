@@ -933,6 +933,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=GOSTBOM
+OutputName10=GOST BOM
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1055,6 +1060,11 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=AnsysEDB
+OutputName13=Ansys EDB
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2473,11 +2483,12 @@ ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 
 [NetInfos]
-Net1=NetName=+12_MCU|NetColor=$0000D5D8
-Net2=NetName=+12_TRANS|NetColor=clYellow
-Net3=NetName=+5|NetColor=$00FFFF6E
-Net4=NetName=+5_TRANS|NetColor=$00FF9933
-Net5=NetName=VOUT|NetColor=$006E6EFF
+Net1=NetName=+12_EPS|NetColor=$0000CCCC
+Net2=NetName=+12_MCU|NetColor=$0000D5D8
+Net3=NetName=+12_TRANS|NetColor=clYellow
+Net4=NetName=+5|NetColor=$00FFFF6E
+Net5=NetName=+5_TRANS|NetColor=$00FF9933
+Net6=NetName=VOUT|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
