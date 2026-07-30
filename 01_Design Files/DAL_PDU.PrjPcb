@@ -398,106 +398,110 @@ DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9B
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\DAL_DPU.REP
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\eda\data
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\DAL_DPU.REP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\gnd\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\power\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\gnd\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_layer\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\power\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_paste\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_solder\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\matrix\matrix
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\Pick Place for DAL_DPU.csv
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\profile
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\Pick Place for DAL_DPU.csv
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\stephdr
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\tools
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\tools
+DItemRevisionGUID=
+
+[GeneratedDocument29]
 DocumentPath=C:\ProgramData\Altium\Altium Designer {21CEEE60-4903-4C6F-A0FE-AA9BB94BDF89}\Extensions\EMIStream\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
@@ -798,73 +802,77 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Final
-OutputName4=Final Artwork Prints
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=Record=IPC2581View|IPC2581Version=B|MeasurementSystem=Metric|FloatingPointPrecision=6|IsWiseSupport=False|MergeNetTieNets=False|OEMDesignNumberRef=DesignItemID|DifferentFootprints=True|DocumentPath=F:\WORKING\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|Version=8.1|DocumentPath=
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|Version=8.1|DocumentPath=
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
