@@ -505,6 +505,10 @@ DItemRevisionGUID=
 Positive=_H
 Negative=_L
 
+[DiffPairSuffix2]
+Positive=_A
+Negative=_B
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
