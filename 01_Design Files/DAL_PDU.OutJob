@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [PublishSettings]
-OutputFilePath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\.PDF
+OutputFilePath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\02_Sche_PDF\.PDF
 ReleaseManaged2=0
-OutputBasePath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\
+OutputBasePath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\02_Sche_PDF\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -94,7 +94,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\.PDF
+RelativeOutputPath2=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\02_Sche_PDF\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
