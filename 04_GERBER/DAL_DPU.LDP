@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: D:\BEE-DAL\REPO\DAL_PDU\01_Design Files\DAL_DPU.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=dal_dpu.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=L1_TOP_L2_GND_Blind_Vias|DrillFile=dal_dpu.tx1|DrillLayers=gtl,g1
-LayersSetName=L1_TOP_L3_POWER_Blind_Vias|DrillFile=dal_dpu.tx2|DrillLayers=gtl,g1,g2
