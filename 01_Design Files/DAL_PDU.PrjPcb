@@ -1040,9 +1040,9 @@ Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Designator=165|Quantity=65|Description=132|Comment=119|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item5=Comment=119|Description=132|Designator=165|Quantity=65|Footprint=100|Manufacturer 1=99|Manufacturer Part Number 1=166
 Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Designator=165|Quantity=65|Description=132|Comment=119|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item6=Comment=119|Description=132|Designator=165|Quantity=65|Footprint=100|Manufacturer 1=99|Manufacturer Part Number 1=166
 Configuration1_Name7=VisibleOrder_Consolidated
 Configuration1_Item7=Line #=53|Designator=129|Quantity=170|Description=120|Footprint=290|Comment=119|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 Configuration1_Name8=VisibleOrder_Flat
