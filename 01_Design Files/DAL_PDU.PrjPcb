@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=..\04_GERBER\CAMtastic1.Cam
+DocumentPath=Project Outputs for DAL_PDU\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=..\04_GERBER\CAMtastic2.Cam
+DocumentPath=Project Outputs for DAL_PDU\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -540,190 +540,194 @@ DocumentPath=Project Outputs for DAL_PDU\DAL_DPU.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU.xls
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_1.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_2.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_3.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_1.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drawing_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_2.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_3.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Keep-out.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Drillmap_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Legend_Bot.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Legend_Top.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Pads_Bot.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Pads_Top.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Paste_Bot.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Paste_Top.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Profile.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Soldermask_Top.gbr
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for DAL_PDU\DAL_DPU_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for DAL_PDU\Design Rule Check - DAL_DPU.html
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for DAL_PDU\Design Rule Check - DAL_DPU.html
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-power\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\features
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-power\features
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\gnd\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\power\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\gnd\features
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_layer\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\power\features
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_paste\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_solder\features
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\matrix\matrix
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\Pick Place for DAL_DPU.csv
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\profile
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\Pick Place for DAL_DPU.csv
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\stephdr
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\tools
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-power\tools
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-gnd\tools
 DItemRevisionGUID=
 
 [GeneratedDocument76]
+DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_blind_vias_top_layer-power\tools
+DItemRevisionGUID=
+
+[GeneratedDocument77]
 DocumentPath=C:\ProgramData\Altium\Altium Designer {D27C72E5-BB39-4300-8B71-69D57FFECF15}\Extensions\EMIStreamV2\Data\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
@@ -1093,6 +1097,10 @@ OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=17|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=LossTangent|Column5Title=Df|Column5Visible=False|Column6Name=CoverlayExpansion|Column6Title=Coverlay expansion|Column6Visible=False|Column7Name=ComponentPlacement|Column7Title=Orientation|Column7Visible=False|Column8Name=CopperOrientation|Column8Title=Copper Orientation|Column8Visible=False|Column9Name=Weight|Column9Title=Weight|Column9Visible=False|Column10Name=Material.Constructions|Column10Title=Constructions|Column10Visible=False|Column11Name=Material.Resin|Column11Title=Resin|Column11Visible=False|Column12Name=Material.Frequency|Column12Title=Frequency|Column12Visible=False|Column13Name=Material.GlassTransTemp|Column13Title=GlassTransTemp|Column13Visible=False|Column14Name=Material.Manufacturer|Column14Title=Manufacturer|Column14Visible=False|Column15Name=Process|Column15Title=Process|Column15Visible=False|Column16Name=Material.Description|Column16Title=Description|Column16Visible=False|DocumentPath=D:\Altium_WorkSpace\1_Nanorack_DAL\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
 OutputType4=Final
 OutputName4=Final Artwork Prints
 OutputDocumentPath4=
@@ -1125,7 +1133,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\Altium_WorkSpace\1_Nanorack_DAL\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1154,7 +1162,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=MIVXUUFH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16777217~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=Regular|PlotDrillDrawingLayerPair1_FileName= |PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=True|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName= |PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=Regular|PlotDrillGuideLayerPair1_FileName= |PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=True|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName= |PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=F:\WORKING\SpaceCeliin\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=MIVXUUFH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16777217~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=Regular|PlotDrillDrawingLayerPair1_FileName= |PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=True|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName= |PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=Regular|PlotDrillGuideLayerPair1_FileName= |PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=True|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName= |PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Altium_WorkSpace\1_Nanorack_DAL\SpaceLiinTech_BEE_DAL_PDU_HW_V1.0\01_Design Files\DAL_DPU.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
